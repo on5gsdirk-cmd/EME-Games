@@ -1,0 +1,6 @@
+__pycache__/
+build/
+dist/
+*.spec
+eme_*.json
+eme_settings.json
