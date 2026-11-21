@@ -4,3 +4,5 @@ dist/
 *.spec
 eme_*.json
 eme_settings.json
+*.zip
+*.patch
